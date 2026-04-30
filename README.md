@@ -48,7 +48,7 @@ Possuo interesse em <strong>Back-end</strong> e <strong>Engenharia de Dados</str
 ABOUT ME: <br>
 I am an <strong>Information Systems</strong> student at the <strong>Federal University of Lavras (UFLA)</strong>, currently based in <em>Lavras, MG – Brazil</em>.<br>
 I aim to build a solid career in <strong>Software Development</strong>, continuously improving my technical and professional skills.<br>
-My main areas of interest include <strong>Back-end Development</strong>, <strong>Full-stack</strong>, <strong>Web</strong>, <strong>Mobile</strong>, and <strong>DevOps</strong>.
+My main areas of interest include <strong>Back-end Development</strong> and <strong>Data Engineering</strong>, with a focus on data processing, organization, and efficient data usage in systems.
 </p>
 
 ###
