@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-<em>Desenvolvedor de Software</em> com foco em <strong>Back-end</strong>
+<em>Desenvolvedor com foco em <strong>Back-end</strong> e <strong>Engenharia de Dados<zstrong>
 </p>
 
 ###
