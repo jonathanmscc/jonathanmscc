@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-<em>Desenvolvedor com foco em <strong>Back-end</strong> e <strong>Engenharia de Dados<zstrong>
+<em>Desenvolvedor com foco em <strong>Back-end</strong> e <strong>Engenharia de Dados</strong>
 </p>
 
 ###
@@ -17,7 +17,7 @@ Sou estudante de <strong>Sistemas de Informação</strong> pela <strong>Universi
 
 Tenho como objetivo consolidar minha carreira na área de <strong>Desenvolvimento de Software</strong>, buscando constante evolução técnica e profissional.<br>
 
-Possuo interesse nas áreas de <strong>Back-end</strong>, <strong>Full-stack</strong>, <strong>Desenvolvimento Web</strong>, <strong>Mobile</strong> e <strong>DevOps</strong>.
+Possuo interesse em <strong>Back-end</strong> e <strong>Engenharia de Dados</strong>, com foco em processamento, organização e uso eficiente de dados em sistemas.
 </p>
 
 ###
